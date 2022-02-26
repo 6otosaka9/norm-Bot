@@ -1,0 +1,26 @@
+{
+  "name": "home",
+  "version": "1.0.0",
+  "description": "bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "6otosaka9",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.5.3",
+    "async": "^3.2.3",
+    "axios": "^0.26.0",
+    "cfonts": "^2.10.0",
+    "child-process": "^1.0.2",
+    "dialogflow": "^1.2.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "fluent-ffmpeg": "^2.1.2",
+    "moment-timezone": "^0.5.34",
+    "node-fetch": "^2.6.7"
+  }
+}

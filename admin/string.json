@@ -1,0 +1,22 @@
+{
+ "menuPrin": [
+  "ban <@alguien>```   ➩  ❲banea miembros del grupo❳",
+  "hidetag <texto>```   ➩  ❲tag oculto❳",
+  "setadmin <@alguien>```   ➩  ❲da admin❳",
+  "kickadmin <@alguien>```   ➩  ❲quita admin❳",
+  "delete```   ➩  ❲elimina mensajes❳",
+  "setname <texto>```   ➩  ❲cambia nombre del grupo❳",
+  "setdesc <texto>```   ➩  ❲cambia descripción del grupo❳",
+  "closegrp <on/off>   ➩  ❲cierra/abre el grupo❳",
+  "msgtemp <on/off>```   ➩  ❲activa/desactiva mensajes temporales❳",
+  "add <numero>```   ➩  ❲agreaga users al grupo❳",
+  "setpf <marca imagen>```   ➩  ❲subir perfil del grupo❳",
+  "tagall <texto>```   ➩  ❲etiqueta a todos❳",
+  "settingp <on/off>```, ➩  ❲activa/desactiva cambiar ajustes todos los users❳"
+ ],
+ "menuGnrl": [
+  "exec <code>```   ➩  ❲ejecuta codigo❳",
+  "menu```   ➩  ❲menu principal❳",
+  "start```   ➩  ❲inicia el bot❳"
+ ]
+}
